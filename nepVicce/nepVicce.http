@@ -1,0 +1,6 @@
+@nepVicce_HostAddress = http://localhost:5206
+
+GET {{nepVicce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
